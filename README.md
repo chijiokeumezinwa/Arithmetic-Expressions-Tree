@@ -1,5 +1,7 @@
 # Arithmetic-Expressions-Tree
 
+A small program that took an arithmetic expression as input, and printed an expression tree as its output
+
 Preferably run this program in eclipse or a similar program
  * Also this program only accepts integers, parentheses, and operational symbols
  * Consider the following expression BNF:
